@@ -3,31 +3,27 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
 package exercicioaulajava;
-import java.util.Scanner;
+
 /**
  *
- * @author davi
+ * @author CAMARGO
  */
-public class Exercício_8 {
+import java.util.Scanner;
+
+public class ExercicioAula2_Java{
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        
         // TODO code application logic here
-        Scanner Idade = new Scanner(System.in);
-        System.out.println("Escreva a sua idade :");
         
-        int UserIdade = Idade.nextInt();
+        Scanner leia = new Scanner (System.in );
+        System.out.println("Entre com seu nome: ");
         
-        int Dias;
-        int Meses;
+        String nomeusuario = leia.nextLine();
         
-        Dias = UserIdade * 365;
-        Meses = UserIdade * 12;
-        System.out.println("Você Tem :"+Dias+" Dias, ou :"+Meses+"Meses, ou :"+UserIdade+" Anos");
-        
+        System.out.println("Nome do usuário: "+nomeusuario);
         
     }
 }

@@ -1,11 +1,13 @@
-/*
+package exercicioaulajava;
+
+/**
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
 
 /**
  *
- * @author felip
+ * @author davi
  */
 import java.util.Scanner;
 public class Exercício_17 {

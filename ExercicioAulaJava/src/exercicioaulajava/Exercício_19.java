@@ -1,14 +1,14 @@
-/*
+/**
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
-package aulajavaexercicios;
+package exercicioaulajava;
 import java.util.Scanner;
 /**
  *
- * @author joaod
+ * @author davi
  */
-public class ex19 {
+public class Exercício_19 {
 
     /**
      * @param args the command line arguments
@@ -57,7 +57,5 @@ public class ex19 {
         System.out.println("Valor final a pagar: R$" + valorFinal);
 
         scanner.close();
-    }
-}
     }
 }

@@ -8,7 +8,7 @@ package exercicioaulajava;
  *
  * @author CAMARGO
  */
-public class ExercicioAulaJava {
+public class ExercicioAula1_Java1_6 {
 
     /**
      * @param args the command line arguments

@@ -1,4 +1,6 @@
-/*
+package exercicioaulajava;
+
+/**
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
@@ -8,7 +10,7 @@
  * @author felip
  */
 import java.util.Scanner;
-public class Exercício_8 {
+public class Exercício_10 {
     /**
      * @param args the command line arguments
      */
