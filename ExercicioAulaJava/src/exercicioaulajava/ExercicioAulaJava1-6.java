@@ -93,6 +93,8 @@ public class ExercicioAulaJava {
         System.out.println("Exercicio 6 - Custo Estimado com combustivel");
         System.out.println("Custo estimado com combustivel é: "+CustoEstimado);
         
+
+        
     }
     
 }
