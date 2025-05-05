@@ -33,3 +33,4 @@ Nível Difícil
 19.	Crie um vetor de 30 números inteiros e encontre o segundo maior valor.
 20.	Implemente um algoritmo que encontre a subsequência crescente mais longa em um vetor de 30 números inteiros.
 
+PESQUISAR CONCEITOS COMPLEMENTARES DE POO

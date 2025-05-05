@@ -8,18 +8,18 @@ package ExercicioAulaJava_5;
  *
  * @author CAMARGO
  */
-public class Exercicio_1_facil {
+public class Exercicio_TESTE {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        int[] Numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        System.out.println("Os 10 numeros são: ");
+        String[] Name = {" Felipe" , " Vitor" , " Davi" , " Marcos", " John"};
+        String[] LastName = {" Borges", " Eredia" , " Tavares" , " Rocha" , " Wesley"}; 
         
-        for (int x = 0; x < Numbers.length ; x++){
-            System.out.println(Numbers[x]);
+        for (int x = 0 ; x < LastName.length ; x++){
+            System.out.println("Seu nome é : "+Name[x]+" "+LastName[x]);
         }
+        
     }
 }
-
