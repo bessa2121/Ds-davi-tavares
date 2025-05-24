@@ -87,7 +87,7 @@ public class CafeteriaVirtual {
             // Verificar se o cliente tem saldo suficiente
             if (saldoCliente >= total) {
                 saldoCliente -= total;
-                System.out.println("\nCompra realizada com sucesso! ✅");
+                System.out.println("\nCompra realizada com sucesso!");
                 System.out.println("\nSeu pedido:");
                 for (Produto item : pedido) {
                     item.exibirDetalhes();
@@ -95,7 +95,7 @@ public class CafeteriaVirtual {
                 System.out.println("\nTotal pago: R$ " + total);
                 System.out.println("Saldo restante na carteira: R$ " + saldoCliente);
             } else {
-                System.out.println("\nSaldo insuficiente! ❌");
+                System.out.println("\nSaldo insuficiente!");
                 System.out.println("Você nao pode concluir a compra. Seu saldo atual e R$ " + saldoCliente + ", mas o pedido custa R$ " + total + ".");
             }
         }
