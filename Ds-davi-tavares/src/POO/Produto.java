@@ -4,7 +4,8 @@
  */
 package POO;
 
-// Classe base Produto
+import javax.swing.*;
+
 class Produto {
     protected String nome;
     protected double preco;
@@ -17,7 +18,7 @@ class Produto {
     }
 
     public void exibirDetalhes() {
-        System.out.println(quantidade + "x " + nome + " - R$ " + (preco * quantidade));
+        JOptionPane.showMessageDialog(null, quantidade + "x " + nome + " - R$ " + (preco * quantidade));
     }
 
     public double getPrecoTotal() {
@@ -25,7 +26,6 @@ class Produto {
     }
 }
 
-// Classe derivada Cafe
 class Cafe extends Produto {
     protected String tamanho;
 
@@ -35,7 +35,6 @@ class Cafe extends Produto {
     }
 }
 
-// Classe derivada Doce
 class Doce extends Produto {
     protected boolean temRecheio;
 
