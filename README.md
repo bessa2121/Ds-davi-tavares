@@ -21,17 +21,17 @@ Por favor explicar sobre MAX_VALUE e MIN_VALUE !!!
 15.	Crie um vetor de 10 números inteiros e exiba os elementos que estão em posições ímpares.
 
 Nível Médio
-11.	Implemente um algoritmo de busca linear para encontrar um elemento em um vetor de 20 números inteiros.
-12.	Crie um vetor de 20 números inteiros e ordene-o usando o algoritmo Bubble Sort.
-13.	Implemente um algoritmo de busca binária para encontrar um elemento em um vetor de 20 números inteiros ordenado.
-14.	Crie um vetor de 20 números inteiros e remova todos os elementos duplicados.
-15.	Crie um vetor de 20 números inteiros e divida-o em dois vetores: um com os elementos pares e outro com os ímpares.
+16.	Implemente um algoritmo de busca linear para encontrar um elemento em um vetor de 20 números inteiros.
+17.	Crie um vetor de 20 números inteiros e ordene-o usando o algoritmo Bubble Sort.
+18.	Implemente um algoritmo de busca binária para encontrar um elemento em um vetor de 20 números inteiros ordenado.
+19.	Crie um vetor de 20 números inteiros e remova todos os elementos duplicados.
+20.	Crie um vetor de 20 números inteiros e divida-o em dois vetores: um com os elementos pares e outro com os ímpares.
 Nível Difícil
-16.	Implemente o algoritmo Quick Sort para ordenar um vetor de 30 números inteiros.
-17.	Crie um vetor de 30 números inteiros e encontre a mediana dos elementos.
-18.	Implemente um algoritmo que rotacione os elementos de um vetor de 30 números inteiros para a direita em uma posição.
-19.	Crie um vetor de 30 números inteiros e encontre o segundo maior valor.
-20.	Implemente um algoritmo que encontre a subsequência crescente mais longa em um vetor de 30 números inteiros.
+21.	Implemente o algoritmo Quick Sort para ordenar um vetor de 30 números inteiros.
+22.	Crie um vetor de 30 números inteiros e encontre a mediana dos elementos.
+23.	Implemente um algoritmo que rotacione os elementos de um vetor de 30 números inteiros para a direita em uma posição.
+24.	Crie um vetor de 30 números inteiros e encontre o segundo maior valor.
+25.	Implemente um algoritmo que encontre a subsequência crescente mais longa em um vetor de 30 números inteiros.
 
 PESQUISAR CONCEITOS COMPLEMENTARES DE POO
 
